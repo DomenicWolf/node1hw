@@ -1,0 +1,14 @@
+{
+  "name": "nodehw",
+  "version": "1.0.0",
+  "description": "hw",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dom",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
